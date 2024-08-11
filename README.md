@@ -32,7 +32,7 @@
 
 <br/>
 
-### **📱 Projects**
+### **📱 Projects(click!)**
 <div style="display: flex; align-items: center;">
     <a href="https://github.com/hwiwls/FourtyTwoCM">
         <img src="https://github.com/hwiwls/hwiwls/blob/main/AppLogo/42CMLogo.png?raw=true" alt="42CM" style="margin-right: 20px; vertical-align: middle; height: 75px;"/>
