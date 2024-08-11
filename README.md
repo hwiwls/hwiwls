@@ -48,13 +48,3 @@
     </a>
 </div>
 
-
-<br/>
-
-### **📚 Currently Studying**
-<a href="#"><img src="https://img.shields.io/badge/Clean%20Architecture-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="25"/></a>
-<a href="#"><img src="https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="25"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Combine-1572B6?style=for-the-badge&logo=swift&logoColor=white" height="25"/></a>
-
-
-
