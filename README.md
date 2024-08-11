@@ -1,5 +1,9 @@
 # **휘진 HwiJin Jeong**  
 
+안녕하세요! iOS 개발자 정휘진입니다🙂 <br/>
+사용자들이 겪는 문제를 해결하고 편의성을 높이기 위해 항상 노력합니다.
+
+<br/>
 
 ### **💻 Language**
 <a href="#"><img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" height="25"/></a>
