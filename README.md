@@ -17,16 +17,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="25"/></a>
 <a href="#"><img src="https://img.shields.io/badge/XCTest-8E44AD?style=for-the-badge" height="25"/></a><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Etc...
 
-<br/>
-
-### **🎓 Education**
-- 인하대학교 컴퓨터공학과 `(2020.03~2024.02)`
-- SeSAC iOS 앱 개발자 데뷔과정 PLUS 4기 `(2023.12~2024.05)`
-
-<br/>
-
-### **🚀 Experience**
-- 대학생 개발 연합 동아리 UMC 5th iOS `(2023.09~2024.02)`
 
 <br/>
 
